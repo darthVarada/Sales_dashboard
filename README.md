@@ -17,3 +17,7 @@ The most relevant skill developed would be how to manipulate and also architect 
 ## Feedback
 
 If you have any feedback, please let us know via doliveraeg@hotmail.com.
+
+## Apêndice
+can be accesed in this link on the web form
+https://sales-dashboard-e66x.onrender.com
